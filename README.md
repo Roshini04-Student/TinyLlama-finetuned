@@ -17,6 +17,13 @@ A complete training pipeline for fine-tuning a medical chatbot using TinyLlama-1
 - Python 3.8+
 - CUDA 11.8+ (for GPU acceleration)
 - Windows 10/11 (tested on Windows 10.0.26100)
+  
+## My Contributions (Roshini Priyanka)
+
+As part of this project, I was responsible for:
+- Participating in model training and fine-tuning using Python and HuggingFace
+- Conducting user testing and collecting feedback to improve response accuracy
+- Developing technical documentation and deployment guidelines
 
 ## 🚀 Quick Start
 
@@ -288,3 +295,4 @@ This project is for educational and research purposes. Please ensure compliance 
 ---
 
 **Note**: This is a research implementation optimized for limited hardware resources. For production medical applications, additional safety measures, validation, regulatory compliance, and higher-quality training data are required. 
+
